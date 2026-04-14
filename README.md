@@ -38,4 +38,15 @@ Este proyecto analiza un dataset de ventas utilizando SQL, Python y visualizaci�
 - SQL (SQLite)
 - Jupyter Notebook
 
+## 📌 Conclusiones
+
+- La categoría con mayor ventas domina el negocio
+- Existen productos que concentran gran parte de los ingresos
+- Algunas regiones generan más ventas que otras
+- Las ciudades principales concentran la mayor actividad comercial
+
+## 🚀 Autor
+
+Proyecto realizado como práctica de análisis de datos
+
 
