@@ -1,22 +1,41 @@
-## 📊 Análisis de Ventas con SQL y Python
+# 📊 Análisis de Ventas con SQL y Python
 
-Proyecto de análisis de datos utilizando SQL, Python y visualización.
+Este proyecto analiza un dataset de ventas utilizando SQL, Python y visualización de datos.
 
-### 🔧 Tecnologías utilizadas
-- Python
-- Pandas
-- SQLite
-- Matplotlib
+## 📁 Estructura del proyecto
 
-### 📈 Análisis realizados
-- Ventas por categoría  
-- Top productos  
-- Ventas por región  
-- Top ciudades  
+- data/ → dataset y base de datos SQLite
+- sql/ → consultas SQL
+- notebooks/ → análisis en Jupyter
+- imagenes/ → (no usado en esta versión)
+- README.md
 
-### 📊 Visualizaciones
+## 📊 Gráficos
 
-![Ventas por categoría](imagenes/ventas_por_categoria.png)  
-![Top productos](imagenes/top_productos.png)  
-![Ventas por región](imagenes/ventas_region.png)  
-![Top ciudades](imagenes/top_ciudades.png)
+### Ventas por categoría
+![Ventas por categoría](ventas_por_categoria.png)
+
+### Top productos
+![Top productos](top_productos.png)
+
+### Ventas por región
+![Ventas por región](ventas_region.png)
+
+### Top ciudades
+![Top ciudades](top_ciudades.png)
+
+## 🔍 Análisis realizado
+
+- Ventas totales por categoría
+- Productos más vendidos
+- Rendimiento por región
+- Ciudades con mayor volumen de ventas
+- Análisis de clientes
+
+## 🛠️ Tecnologías usadas
+
+- Python (pandas, matplotlib)
+- SQL (SQLite)
+- Jupyter Notebook
+
+
