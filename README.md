@@ -122,9 +122,3 @@ El archivo `sql/consultas.sql` contiene 5 consultas principales:
 **Ornella Cappelli**
 - GitHub: [@cappelliornella14](https://github.com/cappelliornella14)
 - LinkedIn: [Ornella Cappelli](https://www.linkedin.com/in/ornella-cappelli-051207327/)
-
----
-
-## 📄 Licencia
-
-Este es un proyecto de análisis de datos con fines educativos.
